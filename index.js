@@ -1,3 +1,4 @@
+//This is the basic logic first understand how to count the words and then proceed to counter.js code
 const fs = require("fs");
 
 function main(filename){
